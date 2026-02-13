@@ -1,0 +1,14 @@
+html, body {
+    margin: 0;
+    height: 100%;
+}
+
+.texto{
+    height: 100vh;
+    font-size: 48px;
+    text-align: center;
+    display: flex;
+    flex-direction:column;
+    justify-content: center;
+
+}
